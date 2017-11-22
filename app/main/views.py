@@ -1,5 +1,6 @@
-from flask import abort, jsonify, render_template, redirect
-from manage import app
+from flask import (abort, jsonify, g, session, render_template, redirect,
+                   request, url_for)
+from manage import app#, client
 from . import main
 
 @main.route('/')
