@@ -6,9 +6,9 @@ This will make it available at localhost:1337
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Setting up your Flask App](#Setting-up-your-Flask-App)
-3. [Database Configuration](#Database-Configuration)
-4. [Runing you App with Gunicorn](#Running-your-App-with-Gunicorn)
+2. [Setting up your Flask App](#setting-up-your-flask-app)
+3. [Database Configuration](#database-configuration)
+4. [Runing you App with Gunicorn](#running-your-app-with-gunicorn)
 
 
 ## Installation
